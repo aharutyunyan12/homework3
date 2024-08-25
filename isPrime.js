@@ -8,4 +8,5 @@ function isPrime(number) {
 }
 
 const result = isPrime(5)
+
 console.log(result)
